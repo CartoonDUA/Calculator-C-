@@ -16,3 +16,6 @@ class CurrencyConverter
             { "CAD", 1.35 },
             { "AUD", 1.52 }
         };
+
+        Console.WriteLine("Currency Converter");
+        Console.WriteLine("Available currencies: USD, EUR, GBP, JPY, CAD, AUD");
